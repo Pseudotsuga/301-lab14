@@ -3,7 +3,7 @@ Database Migration and Normalization
 
 Feature 1: Database Setup
 
-Estimate of time needed to complete: 20 Minutes
+Estimate of time needed to complete: 20 Minutes.
 
 Start time: 8:36 AM
 
@@ -14,13 +14,13 @@ Actual time needed to complete: 7 Minutes.
 
 Feature 2: Database Migration
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 20 Minutes.
 
-Start time: _____
+Start time: 8:45 AM
 
-Finish time: _____
+Finish time: 8:52 AM
 
-Actual time needed to complete: _____
+Actual time needed to complete: 7 Minutes.
 
 Feature 3: Addition of a migration folder
 
