@@ -24,13 +24,13 @@ Actual time needed to complete: 7 Minutes.
 
 Feature 3: Addition of a migration folder
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 10 Minutes.
 
-Start time: _____
+Start time: 8:54 AM
 
-Finish time: _____
+Finish time: 9:07 AM
 
-Actual time needed to complete: _____
+Actual time needed to complete: 13 Minutes.
 
 Feature 4: Stretch Goal - Modify the existing app code base
 
