@@ -7,9 +7,9 @@ Estimate of time needed to complete: 20 Minutes
 
 Start time: 8:36 AM
 
-Finish time: _____
+Finish time: 8:43 AM
 
-Actual time needed to complete: _____
+Actual time needed to complete: 7 Minutes.
 
 
 Feature 2: Database Migration
